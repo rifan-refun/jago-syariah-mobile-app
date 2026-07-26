@@ -1,0 +1,18 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <group
+        android:translateX="27"
+        android:translateY="27">
+        <!-- Center an elegant golden dome representation of Sharia security and funding growth -->
+        <path
+            android:fillColor="#FFFFD700"
+            android:pathData="M27,4 C38,15 48,22 48,34 C48,45 38,50 27,50 C16,50 6,45 6,34 C6,22 16,15 27,4 Z" />
+        <!-- Inner Star graphic -->
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M27,16 L30,22 L36,23 L31,27 L33,33 L27,29 L21,33 L23,27 L18,23 L24,22 Z" />
+    </group>
+</vector>
