@@ -25,7 +25,7 @@ financing proposals.
   - Inspection worksheet and issuance of Sharia Opinion Letter with *SHA-256 E-Signature*.
   - Scheduling guidance & consultation sessions for MSME business governance.
 
---- ##Technology & Architecture 
+## Technology & Architecture 
 - **Language:** Kotlin
 - **UI Framework:** Jetpack Compose
 (Material3)
@@ -42,7 +42,7 @@ financing proposals.
 24).
 4. Java Development Kit (JDK) 11 or newer.
 
---- ### **Installation Steps** 
+###**Installation Steps** 
 1. **Clone the Repository** ```bash git clone https://github.com/username/jago-modal-syariah.git cd
 jago-modal-syariah ```
 2. **Open the Project in Android Studio**
