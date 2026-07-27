@@ -4,7 +4,7 @@ MSME projects. This application is directly integrated with the **Bank Jago Syar
 and features a Sharia compliance verification system (*Musyarakah* & *Mudharabah*)
 governed by the Sharia Supervisory Board (DPS). 
 
---- ## 🚀 Key Features - **Investor / Retail Funder:** - Explore active MSME funding campaigns (Culinary, Fashion, Agritech, etc.). 
+## 🚀 Key Features - **Investor / Retail Funder:** - Explore active MSME funding campaigns (Culinary, Fashion, Agritech, etc.). 
   - Real-time profit-sharing calculator simulation (*expected yield*).
   - Multi-step *checkout* process
   with Digital Agreement (*Akad*) signing & *Ijab Qabul*.
@@ -34,7 +34,7 @@ financing proposals.
 - **Testing:** Robolectric & Roborazzi
 (Screenshot Testing)
 
---- ## 💻 How to Run the Application 
+## 💻 How to Run the Application 
 ### **Prerequisites** 
 1. [Android Studio](https://developer.android.com/studio) (Ladybug / Jellyfish version recommended). 
 2. Android SDK version 34/36.
