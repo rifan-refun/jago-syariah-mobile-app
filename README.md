@@ -1,4 +1,4 @@
-# 🌙 Jago Modal Syariah **Jago Modal Syariah** is an Android-based *Securities
+#Jago Modal Syariah **Jago Modal Syariah** is an Android-based *Securities
 Crowdfunding* application designed to support financial inclusion and funding for real-sector
 MSME projects. This application is directly integrated with the **Bank Jago Syariah** ecosystem
 and features a Sharia compliance verification system (*Musyarakah* & *Mudharabah*)
